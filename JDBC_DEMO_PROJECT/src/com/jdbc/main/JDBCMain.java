@@ -27,6 +27,8 @@ public class JDBCMain {
 		System.out.println("please enter your choise");
 		System.out.println("1 - select ");
 		System.out.println("2 - create ");
+		System.out.println("3 - select ");
+		System.out.println("4 - create ");
 
 		String url = "jdbc:mysql://127.0.0.1:3306/my_codebegun_db";
 		String user = "root";
